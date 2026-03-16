@@ -1,1 +1,1 @@
-# una-sdm-lista-03
+Entrega de atividades referentes a Lista de Exercícios una-sdm-lista-03
